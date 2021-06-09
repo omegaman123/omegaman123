@@ -7,6 +7,8 @@
   Games I've worked on:
   * [Honey Bear](https://team-bbbees.itch.io/honey-bear) : (2020 - 2021) A relaxing game of gardening paired with some business management.
     * Systems Programmer
+  * [One Last Chance](https://carlerez.itch.io/one-last-chance) : (2020) An emotional reskin of frogger regarding a father and his estranged son.
+    * Programmer and Voice
   * [Alpine Adventure](https://ben-quadrinaros.itch.io/alpine-adventure) : (2020) An infinite sidescrolling biathlon game.
     * Programmer
   * [MEGA Golf](https://ben-quadrinaros.itch.io/mega-golf) : (2020) A sandbox golf game of scale and distortion.
