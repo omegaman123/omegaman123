@@ -4,6 +4,7 @@
   I am a long time game enthusiest and hope to merge that passion with my education in programming and design to forge a career in the games industry.
   
   My resume can be found [here](https://docs.google.com/document/d/1uB-O3ZKd3tVwweOho4-P0L9Ummvz0vyHKX2hK2xDwks/edit?usp=sharing).
+  My repositories contain all of the various coursework I have completed over my years ranging from working with and programming operating systems to WebGL to AI related projects   such as pathfinding and genetic algorithms.
   
   
   Games I've worked on:
