@@ -4,7 +4,7 @@
   
   I am a long time game enthusiest and hope to merge that passion with my education in programming and design to forge a career in the games industry.
   
-  My resume can be found [here](https://docs.google.com/document/d/1uB-O3ZKd3tVwweOho4-P0L9Ummvz0vyHKX2hK2xDwks/edit?usp=sharing).
+  My resume can be found [here](https://drive.google.com/file/d/1x0f4peNRua3YGGDjyS3n61LRUB67UZ78/view?usp=sharing).
   
   
   
