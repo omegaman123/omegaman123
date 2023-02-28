@@ -1,5 +1,5 @@
 <h1> Mark Medved </h1>
-  Hi, I graduated from UCSC with a degree in Computer Science: Game Design and a minor in Computer Science. 
+  Hi, I graduated from UCSC with a degree in Computer Science: Game Design and a minor in Computer Science. I am currently working as a Software engineer at OpenEye,   focusing on building cohesive and robust user interfaces with React.js!
   
   
   I am a long time game enthusiest and hope to merge that passion with my education in programming and design to forge a career in the games industry.
